@@ -38,11 +38,11 @@ Unicaller is a revolutionary mobile application designed for real-time verificat
 
 ## Screenshots
 
-![Overview 1](https://github.com/SarvT/Spasht/assets/91484197/7719f62c-ade7-4afa-9cf5-1c20c6530941)
+![Overview 2](https://github.com/SarvT/Spasht/assets/91484197/9b5ddd07-a4dd-485b-bcd3-6330db74d51c)
 *Overview of sytem UI 1*
 
 
-![Overview 2](https://github.com/SarvT/Spasht/assets/91484197/9b5ddd07-a4dd-485b-bcd3-6330db74d51c)
+![Overview 1](https://github.com/SarvT/Spasht/assets/91484197/7719f62c-ade7-4afa-9cf5-1c20c6530941)
 *Overview of sytem UI 2*
 
 
